@@ -1,7 +1,7 @@
 ﻿/// Chapter No. 1		Exercise No. 1
-/// File Name: MyFirstProgram.java
-/// @author: Bill Gates
-/// Date:  August 24, 2015
+/// File Name: Program.cs
+/// @author: Marcus Moore
+/// Date:  August 26, 2021
 ///
 /// Problem Statement: Ask the user to enter two numbers, calculate the sum of
 /// these two numbers, and display the sum to the screen
